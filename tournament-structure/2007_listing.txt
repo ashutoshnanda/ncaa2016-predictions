@@ -1,0 +1,64 @@
+Florida;1;112,74,65,85,76,84
+Jackson State;16;69
+Arizona;8;63
+Purdue;9;72,67
+Butler;5;57,62,57
+Old Dominion;12;46
+Maryland;4;82,59
+Davidson;13;70
+Notre Dame;6;64
+Winthrop;11;74,61
+Oregon;3;58,75,76,77
+Miami (OH);14;56
+UNLV;7;67,74,72
+Georgia Tech;10;63
+Wisconsin;2;76,68
+Texas A&M-Corpus Christi;15;63
+Kansas;1;107,88,61,55
+Niagara;16;67
+Kentucky;8;67,76
+Villanova;9;58
+Virginia Tech;5;54,48
+Illinois;12;52
+Southern Illinois;4;61,63,58
+Holy Cross;13;51
+Duke;6;77
+VCU;11;79,79
+Pitt;3;79,84,55
+Wright State;14;58
+Indiana;7;70,49
+Gonzaga;10;57
+UCLA;2;70,54,64,68,66
+Weber State;15;42
+UNC;1;86,81,74,84
+Eastern Kentucky;16;65
+Marquette;8;49
+Michigan State;9;61,67
+USC;5;77,87,64
+Arkansas;12;60
+Texas;4;79,68
+New Mexico State;13;67
+Vanderbilt;6;77,78,65
+George Washington;11;44
+Washington State;3;70,74
+Oral Roberts;14;54
+Boston College;7;84,55
+Texas Tech;10;75
+Georgetown;2;80,62,66,96,60
+Belmont;15;55
+Ohio State;1;78,78,85,92,67,75
+Central Connecticut;16;57
+BYU;8;77
+Xavier;9;79,71
+Tennessee;5;121,77,84
+Long Beach State;12;86
+Virginia;4;84,74
+Albany (NY);13;57
+Louisville;6;78,69
+Stanford;11;58
+Texas A&M;3;68,72,64
+Penn;14;52
+Nevada;7;77,62
+Creighton;10;71
+Memphis;2;73,78,65,76
+North Texas;15;58

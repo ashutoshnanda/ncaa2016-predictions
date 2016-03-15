@@ -1,0 +1,64 @@
+Maryland;1;85,87,78,90,97,64
+Siena;16;70
+Wisconsin;8;80,57
+St. John's (NY);9;70
+Marquette;5;69
+Tulsa;12;71,82
+Kentucky;4;83,87,68
+Valparaiso;13;68
+Texas Tech;6;68
+Southern Illinois;11;76,77,59
+Georgia;3;85,75
+Murray State;14;68
+North Carolina State;7;69,74
+Michigan State;10;58
+UConn;2;78,77,71,82
+Hampton;15;67
+Kansas;1;70,86,73,104,88
+Holy Cross;16;59
+Stanford;8;84,63
+Western Kentucky;9;68
+Florida;5;82
+Creighton;12;83,60
+Illinois;4;93,72,69
+San Diego State;13;64
+Texas;6;70,68,70
+Boston College;11;57
+Mississippi State;3;70,64
+McNeese State;14;58
+Wake Forest;7;83,87
+Pepperdine;10;74
+Oregon;2;81,92,72,86
+Montana;15;62
+Cincinnati;1;90,101
+Boston University;16;52
+UCLA;8;80,105,73
+Ole Miss;9;58
+Miami (FL);5;80
+Missouri;12;93,83,82,75
+Ohio State;4;69,67
+Davidson;13;64
+Gonzaga;6;66
+Wyoming;11;73,60
+Arizona;3;86,68,67
+UCSB;14;81
+Xavier;7;70,65
+Hawaii;10;58
+Oklahoma;2;71,78,88,81,64
+UIC;15;63
+Duke;1;84,84,73
+Winthrop;16;37
+Notre Dame;8;82,77
+Charlotte;9;63
+Indiana;5;75,76,74,81,73,52
+Utah;12;56
+USC;4;89
+North Carolina-Wilmington;13;93,67
+University of California;6;82,50
+Penn;11;75
+Pitt;3;71,63,73
+Central Connecticut;14;54
+Oklahoma State;7;61
+Kent State;10;69,71,78,69
+Alabama;2;86,58
+Florida Atlantic;15;78

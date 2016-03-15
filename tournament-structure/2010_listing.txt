@@ -1,0 +1,64 @@
+Duke;1;73,68,70,78,78,61
+Arkansas-Pine Bluff;16;44
+University of California;8;77,53
+Louisville;9;62
+Texas A&M;5;69,61
+Utah State;12;53
+Purdue;4;72,63,57
+Siena;13;64
+Notre Dame;6;50
+Old Dominion;11;51,68
+Baylor;3;68,76,72,71
+Sam Houston State;14;59
+Richmond;7;71
+Saint Mary's (CA);10;80,75,49
+Villanova;2;73,68
+Robert Morris;15;70
+Kentucky;1;100,90,62,66
+ETSU;16;71
+Texas;8;80
+Wake Forest;9;81,60
+Temple;5;65
+Cornell;12;78,87,45
+Wisconsin;4;53,69
+Wofford;13;49
+Marquette;6;78
+Washington;11;80,82,56
+New Mexico;3;62,64
+Montana;14;57
+Clemson;7;78
+Missouri;10;86,59
+West Virginia;2;77,68,69,73,57
+Morgan State;15;50
+Kansas;1;90,67
+Lehigh;16;74
+UNLV;8;66
+Northern Iowa;9;69,69,52
+Michigan State;5;70,85,59,70,50
+New Mexico State;12;67
+Maryland;4;89,83
+Houston;13;77
+Tennessee;6;62,83,76,69
+San Diego State;11;59
+Georgetown;3;83
+Ohio;14;97,68
+Oklahoma State;7;59
+Georgia Tech;10;64,66
+Ohio State;2;68,75,73
+UCSB;15;51
+Syracuse;1;79,87,59
+Vermont;16;56
+Gonzaga;8;67,65
+Florida State;9;60
+Butler;5;77,54,63,63,52,59
+UTEP;12;59
+Vanderbilt;4;65
+Murray State;13;66,52
+Xavier;6;65,71,96
+Minnesota;11;54
+Pitt;3;89,68
+Oakland;14;66
+BYU;7;99,72
+Florida;10;92
+Kansas State;2;82,84,101,56
+North Texas;15;62

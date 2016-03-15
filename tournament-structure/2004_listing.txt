@@ -1,0 +1,64 @@
+Stanford;1;71,67
+UTSA;16;45
+Alabama;8;65,70,80,71
+Southern Illinois;9;64
+Syracuse;5;80,72,71
+BYU;12;75
+Maryland;4;86,70
+UTEP;13;83
+Vanderbilt;6;71,75,53
+Western Michigan;11;58
+North Carolina State;3;61,73
+Louisiana-Lafayette;14;52
+DePaul;7;76,55
+Dayton;10;69
+UConn;2;70,72,73,87,79,82
+Vermont;15;53
+Duke;1;96,90,72,66,78
+Alabama State;16;61
+Seton Hall;8;80,62
+Arizona;9;76
+Illinois;5;72,92,62
+Murray State;12;53
+Cincinnati;4;80,68
+ETSU;13;77
+UNC;6;63,75
+Air Force;11;52
+Texas;3;66,78,71
+Princeton;14;49
+Xavier;7;80,89,79,63
+Louisville;10;70
+Mississippi State;2;85,74
+Monmouth;15;52
+St. Joseph's;1;82,70,84,62
+Liberty;16;63
+Texas Tech;8;76,65
+Charlotte;9;73
+Florida;5;60
+Manhattan;12;75,80
+Wake Forest;4;79,84,80
+VCU;13;78
+Wisconsin;6;76,55
+Richmond;11;64
+Pitt;3;53,59,51
+UCF;14;44
+Memphis;7;59,53
+South Carolina;10;43
+Oklahoma State;2;75,70,63,64,65
+Eastern Washington;15;56
+Kentucky;1;96,75
+Florida A&M;16;76
+Washington;8;100
+Alabama-Birmingham;9;102,76,74
+Providence;5;58
+Pacific;12;66,63
+Kansas;4;78,78,100,71
+UIC;13;53
+Boston College;6;58,54
+Utah;11;51
+Georgia Tech;3;65,57,72,79,67,73
+Northern Iowa;14;60
+Michigan State;7;66
+Nevada;10;72,91,67
+Gonzaga;2;76,72
+Valparaiso;15;49

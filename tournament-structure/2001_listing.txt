@@ -1,0 +1,64 @@
+Duke;1;95,94,76,79,95,82
+Monmouth;16;52
+Georgia;8;68
+Missouri;9;70,81
+Ohio State;5;68
+Utah State;12;77,50
+UCLA;4;61,75,63
+Hofstra;13;48
+USC;6;69,74,80,69
+Oklahoma State;11;54
+Boston College;3;68,71
+Southern Utah;14;65
+Iowa;7;69,79
+Creighton;10;56
+Kentucky;2;72,92,76
+Holy Cross;15;68
+Stanford;1;89,90,78,73
+North Carolina-Greensboro;16;60
+Georgia Tech;8;62
+St. Joseph's;9;66,83
+Cincinnati;5;84,66,65
+BYU;12;59
+Indiana;4;73
+Kent State;13;77,43
+Wisconsin;6;49
+Georgia State;11;50,60
+Maryland;3;83,79,76,87,84
+George Mason;14;80
+Arkansas;7;61
+Georgetown;10;63,76,66
+Iowa State;2;57
+Hampton;15;58,57
+Michigan State;1;69,81,77,69,61
+Alabama State;16;35
+University of California;8;70
+Fresno State;9;82,65
+Virginia;5;85
+Gonzaga;12;86,85,62
+Oklahoma;4;68
+Indiana State;13;70,68
+Texas;6;65
+Temple;11;79,75,84,62
+Florida;3;69,54
+Western Kentucky;14;56
+Penn State;7;69,82,72
+Providence;10;59
+UNC;2;70,74
+Princeton;15;48
+Illinois;1;96,79,80,81
+Northwestern State;16;54
+Tennessee;8;63
+Charlotte;9;70,61
+Syracuse;5;79,58
+Hawaii;12;69
+Kansas;4;99,87,64
+Cal State Northridge;13;75
+Notre Dame;6;83,56
+Xavier;11;71
+Ole Miss;3;72,59,56
+Iona;14;70
+Wake Forest;7;63
+Butler;10;79,52
+Arizona;2;101,73,66,87,80,72
+Eastern Illinois;15;76

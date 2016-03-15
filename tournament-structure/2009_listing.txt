@@ -1,0 +1,64 @@
+UNC;1;101,84,98,72,83,89
+Radford;16;58
+LSU;8;75,70
+Butler;9;71
+Illinois;5;72
+Western Kentucky;12;76,81
+Gonzaga;4;77,83,77
+Akron;13;64
+Arizona State;6;66,67
+Temple;11;57
+Syracuse;3;59,78,71
+Stephen F. Austin;14;44
+Clemson;7;59
+Michigan;10;62,63
+Oklahoma;2;82,73,84,60
+Morgan State;15;54
+Pitt;1;72,84,60,76
+ETSU;16;62
+Oklahoma State;8;77,76
+Tennessee;9;75
+Florida State;5;59
+Wisconsin;12;61,49
+Xavier;4;77,60,55
+Portland State;13;59
+UCLA;6;65,69
+VCU;11;64
+Villanova;3;80,89,77,78,69
+American;14;67
+Texas;7;76,69
+Minnesota;10;62
+Duke;2;86,74,54
+Binghamton;15;62
+UConn;1;103,92,72,82,73
+Chattanooga;16;47
+BYU;8;66
+Texas A&M;9;79,66
+Purdue;5;61,76,60
+Northern Iowa;12;56
+Washington;4;71,74
+Mississippi State;13;58
+Marquette;6;58,79
+Utah State;11;57
+Missouri;3;78,83,102,75
+Cornell;14;59
+University of California;7;71
+Maryland;10;84,70
+Memphis;2;81,89,91
+Cal State Northridge;15;70
+Louisville;1;74,79,103,52
+Morehead State;16;54
+Ohio State;8;72
+Siena;9;74,72
+Utah;5;71
+Arizona;12;84,71,64
+Wake Forest;4;69
+Cleveland State;13;84,57
+West Virginia;6;60
+Dayton;11;68,43
+Kansas;3;84,60,62
+North Dakota State;14;74
+Boston College;7;55
+USC;10;72,69
+Michigan State;2;77,74,67,64,82,72
+Robert Morris;15;62

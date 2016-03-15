@@ -1,0 +1,64 @@
+Louisville;1;79,82,77,85,72,82
+North Carolina A&T;16;48
+Colorado State;8;84,56
+Missouri;9;72
+Oklahoma State;5;55
+Oregon;12;68,74,69
+Saint Louis;4;64,57
+New Mexico State;13;44
+Memphis;6;54,48
+Saint Mary's (CA);11;52
+Michigan State;3;65,70,61
+Valparaiso;14;54
+Creighton;7;67,50
+Cincinnati;10;63
+Duke;2;73,66,71,63
+Albany (NY);15;61
+Gonzaga;1;64,70
+Southern;16;58
+Pitt;8;55
+Wichita State;9;73,76,72,70,68
+Wisconsin;5;46
+Ole Miss;12;57,74
+Kansas State;4;61
+La Salle;13;63,76,58
+Arizona;6;81,74,70
+Belmont;11;64
+New Mexico;3;62
+Harvard;14;68,51
+Notre Dame;7;58
+Iowa State;10;76,75
+Ohio State;2;95,78,73,66
+Iona;15;70
+Indiana;1;83,58,50
+James Madison;16;62
+North Carolina State;8;72
+Temple;9;76,52
+UNLV;5;61
+University of California;12;64,60
+Syracuse;4;81,66,61,55,56
+Montana;13;34
+Butler;6;68,72
+Bucknell;11;56
+Marquette;3;59,74,71,39
+Davidson;14;58
+Illinois;7;57,59
+Colorado;10;49
+Miami (FL);2;78,63,61
+Pacific;15;49
+Kansas;1;64,70,85
+Western Kentucky;16;57
+UNC;8;78,58
+Villanova;9;71
+VCU;5;88,53
+Akron;12;42
+Michigan;4;71,78,87,79,61,76
+South Dakota State;13;56
+UCLA;6;63
+Minnesota;11;83,64
+Florida;3;79,78,62,59
+Northwestern State;14;47
+San Diego State;7;70,71
+Oklahoma;10;55
+Georgetown;2;68
+Florida Gulf Coast;15;78,81,50

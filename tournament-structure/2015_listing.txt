@@ -1,0 +1,64 @@
+Duke;1;85,68,63,66,81,68
+Robert Morris;16;56
+San Diego State;8;76,49
+St. John's (NY);9;64
+Utah;5;57,75,57
+Stephen F. Austin;12;50
+Georgetown;4;84,64
+Eastern Washington;13;74
+SMU;6;59
+UCLA;11;60,92,62
+Iowa State;3;59
+Alabama-Birmingham;14;60,75
+Iowa;7;83,68
+Davidson;10;52
+Gonzaga;2;86,87,74,52
+North Dakota State;15;76
+Villanova;1;93,68
+Lafayette;16;52
+North Carolina State;8;66,71,65
+LSU;9;65
+Northern Iowa;5;71,53
+Wyoming;12;54
+Louisville;4;57,66,75,70
+UC-Irvine;13;55
+Providence;6;53
+Dayton;11;66,66
+Oklahoma;3;69,72,58
+Albany (NY);14;60
+Michigan State;7;70,60,62,76,61
+Georgia;10;63
+Virginia;2;79,54
+Belmont;15;67
+Kentucky;1;79,64,78,68,64
+Hampton;16;56
+Cincinnati;8;66,51
+Purdue;9;65
+West Virginia;5;68,69,39
+Buffalo;12;62
+Maryland;4;65,59
+Valparaiso;13;62
+Butler;6;56,64
+Texas;11;48
+Notre Dame;3;69,67,81,66
+Northeastern;14;65
+Wichita State;7;81,78,70
+Indiana;10;76
+Kansas;2;75,65
+New Mexico State;15;56
+Wisconsin;1;86,72,79,85,71,63
+Coastal Carolina;16;72
+Oregon;8;79,65
+Oklahoma State;9;73
+Arkansas;5;56,78
+Wofford;12;53
+UNC;4;67,87,72
+Harvard;13;65
+Xavier;6;76,75,60
+Ole Miss;11;57
+Baylor;3;56
+Georgia State;14;57,67
+VCU;7;72
+Ohio State;10;75,58
+Arizona;2;93,73,68,78
+Texas Southern;15;72
