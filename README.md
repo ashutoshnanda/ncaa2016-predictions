@@ -8,7 +8,6 @@ I'll try a few different methods:
 #Data
 
 Getting Tournament Structure - [Example for 2001](http://www.sports-reference.com/cbb/postseason/2001-ncaa.html)
-
 Data Source URLs: 
 ```python 
 url_format = "http://www.sports-reference.com/cbb/postseason/%d-ncaa.html"
