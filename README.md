@@ -8,4 +8,9 @@ I'll try a few different methods:
 #Data
 
 Getting Tournament Structure - [Example for 2001][http://www.sports-reference.com/cbb/postseason/2001-ncaa.html]
-Format: `http://www.sports-reference.com/cbb/postseason/%d-ncaa.html` % year for year in range(2001, 2016 + 1)
+Data Source URLs: 
+```python 
+url_format = "http://www.sports-reference.com/cbb/postseason/%d-ncaa.html"
+years = range(2001, 2016 + 1)
+urls = [url_format % year for year in years]
+```
