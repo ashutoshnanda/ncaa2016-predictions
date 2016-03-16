@@ -118,7 +118,7 @@ def analyze_one_tournament(tournament_structure_file):
 	listing_file.close()
 
 def analyze_all_tournaments():
-	files_to_analyze = filter(lambda x: x.endswith('.html'),
+	files_to_analyze = filter(lambda x: x.endswith('.html') and '2016' not in x,
 					          os.listdir(tournament_structure_folder))
 	for tournament in files_to_analyze:
 		print('Analyzing %s' % tournament)
