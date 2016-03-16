@@ -1,0 +1,7 @@
+Oklahoma, South Carolina State, University of California, North Carolina State, Mississippi State, Butler, Louisville, Austin Peay, Oklahoma State, Penn, Syracuse, Manhattan, St. Joseph's, Auburn, Wake Forest, ETSU, Texas, North Carolina-Asheville, LSU, Purdue, UConn, BYU, Stanford, San Diego, Maryland, North Carolina-Wilmington, Xavier, Troy, Michigan State, Colorado, Florida, Sam Houston State, Kentucky, IUPUI, Oregon, Utah, Wisconsin, Weber State, Dayton, Tulsa, Missouri, Southern Illinois, Marquette, Holy Cross, Indiana, Alabama, Pitt, Wagner, Arizona, Vermont, Cincinnati, Gonzaga, Notre Dame, Milwaukee, Illinois, Western Kentucky, Creighton, Central Michigan, Duke, Colorado State, Memphis, Arizona State, Kansas, Utah State
+Oklahoma, University of California, Butler, Louisville, Oklahoma State, Syracuse, Auburn, Wake Forest, Texas, Purdue, UConn, Stanford, Maryland, Xavier, Michigan State, Florida, Kentucky, Utah, Wisconsin, Tulsa, Missouri, Marquette, Indiana, Pitt, Arizona, Gonzaga, Notre Dame, Illinois, Central Michigan, Duke, Arizona State, Kansas
+Oklahoma, Butler, Syracuse, Auburn, Texas, UConn, Maryland, Michigan State, Kentucky, Wisconsin, Marquette, Pitt, Arizona, Notre Dame, Duke, Kansas
+Oklahoma, Syracuse, Texas, Michigan State, Kentucky, Marquette, Arizona, Kansas
+Syracuse, Texas, Marquette, Kansas
+Syracuse, Kansas
+Syracuse

@@ -1,0 +1,7 @@
+Virginia, Coastal Carolina, Memphis, George Washington, Cincinnati, Harvard, Michigan State, Delaware, UNC, Providence, Iowa State, North Carolina Central, UConn, St. Joseph's, Villanova, Milwaukee, Florida, Albany (NY), Colorado, Pitt, VCU, Stephen F. Austin, UCLA, Tulsa, Ohio State, Dayton, Syracuse, Western Michigan, New Mexico, Stanford, Kansas, Eastern Kentucky, Arizona, Weber State, Gonzaga, Oklahoma State, Oklahoma, North Dakota State, San Diego State, New Mexico State, Baylor, Nebraska, Creighton, Louisiana-Lafayette, Oregon, BYU, Wisconsin, American, Wichita State, Cal Poly, Kentucky, Kansas State, Saint Louis, North Carolina State, Louisville, Manhattan, UMass, Tennessee, Duke, Mercer, Texas, Arizona State, Michigan, Wofford
+Virginia, Memphis, Harvard, Michigan State, UNC, Iowa State, UConn, Villanova, Florida, Pitt, Stephen F. Austin, UCLA, Dayton, Syracuse, Stanford, Kansas, Arizona, Gonzaga, North Dakota State, San Diego State, Baylor, Creighton, Oregon, Wisconsin, Wichita State, Kentucky, Saint Louis, Louisville, Tennessee, Mercer, Texas, Michigan
+Virginia, Michigan State, Iowa State, UConn, Florida, UCLA, Dayton, Stanford, Arizona, San Diego State, Baylor, Wisconsin, Kentucky, Louisville, Tennessee, Michigan
+Michigan State, UConn, Florida, Dayton, Arizona, Wisconsin, Kentucky, Michigan
+UConn, Florida, Wisconsin, Kentucky
+UConn, Kentucky
+UConn

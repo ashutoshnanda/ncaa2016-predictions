@@ -1,0 +1,7 @@
+Louisville, North Carolina A&T, Colorado State, Missouri, Oklahoma State, Oregon, Saint Louis, New Mexico State, Memphis, Saint Mary's (CA), Michigan State, Valparaiso, Creighton, Cincinnati, Duke, Albany (NY), Gonzaga, Southern, Pitt, Wichita State, Wisconsin, Ole Miss, Kansas State, La Salle, Arizona, Belmont, New Mexico, Harvard, Notre Dame, Iowa State, Ohio State, Iona, Indiana, James Madison, North Carolina State, Temple, UNLV, University of California, Syracuse, Montana, Butler, Bucknell, Marquette, Davidson, Illinois, Colorado, Miami (FL), Pacific, Kansas, Western Kentucky, UNC, Villanova, VCU, Akron, Michigan, South Dakota State, UCLA, Minnesota, Florida, Northwestern State, San Diego State, Oklahoma, Georgetown, Florida Gulf Coast
+Louisville, Colorado State, Oregon, Saint Louis, Memphis, Michigan State, Creighton, Duke, Gonzaga, Wichita State, Ole Miss, La Salle, Arizona, Harvard, Iowa State, Ohio State, Indiana, Temple, University of California, Syracuse, Butler, Marquette, Illinois, Miami (FL), Kansas, UNC, VCU, Michigan, Minnesota, Florida, San Diego State, Florida Gulf Coast
+Louisville, Oregon, Michigan State, Duke, Wichita State, La Salle, Arizona, Ohio State, Indiana, Syracuse, Marquette, Miami (FL), Kansas, Michigan, Florida, Florida Gulf Coast
+Louisville, Duke, Wichita State, Ohio State, Syracuse, Marquette, Michigan, Florida
+Louisville, Wichita State, Syracuse, Michigan
+Louisville, Michigan
+Louisville

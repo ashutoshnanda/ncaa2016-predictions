@@ -1,0 +1,7 @@
+UNC, Radford, LSU, Butler, Illinois, Western Kentucky, Gonzaga, Akron, Arizona State, Temple, Syracuse, Stephen F. Austin, Clemson, Michigan, Oklahoma, Morgan State, Pitt, ETSU, Oklahoma State, Tennessee, Florida State, Wisconsin, Xavier, Portland State, UCLA, VCU, Villanova, American, Texas, Minnesota, Duke, Binghamton, UConn, Chattanooga, BYU, Texas A&M, Purdue, Northern Iowa, Washington, Mississippi State, Marquette, Utah State, Missouri, Cornell, University of California, Maryland, Memphis, Cal State Northridge, Louisville, Morehead State, Ohio State, Siena, Utah, Arizona, Wake Forest, Cleveland State, West Virginia, Dayton, Kansas, North Dakota State, Boston College, USC, Michigan State, Robert Morris
+UNC, LSU, Western Kentucky, Gonzaga, Arizona State, Syracuse, Michigan, Oklahoma, Pitt, Oklahoma State, Wisconsin, Xavier, UCLA, Villanova, Texas, Duke, UConn, Texas A&M, Purdue, Washington, Marquette, Missouri, Maryland, Memphis, Louisville, Siena, Arizona, Cleveland State, Dayton, Kansas, USC, Michigan State
+UNC, Gonzaga, Syracuse, Oklahoma, Pitt, Xavier, Villanova, Duke, UConn, Purdue, Missouri, Memphis, Louisville, Arizona, Kansas, Michigan State
+UNC, Oklahoma, Pitt, Villanova, UConn, Missouri, Louisville, Michigan State
+UNC, Villanova, UConn, Michigan State
+UNC, Michigan State
+UNC

@@ -1,0 +1,7 @@
+Stanford, UTSA, Alabama, Southern Illinois, Syracuse, BYU, Maryland, UTEP, Vanderbilt, Western Michigan, North Carolina State, Louisiana-Lafayette, DePaul, Dayton, UConn, Vermont, Duke, Alabama State, Seton Hall, Arizona, Illinois, Murray State, Cincinnati, ETSU, UNC, Air Force, Texas, Princeton, Xavier, Louisville, Mississippi State, Monmouth, St. Joseph's, Liberty, Texas Tech, Charlotte, Florida, Manhattan, Wake Forest, VCU, Wisconsin, Richmond, Pitt, UCF, Memphis, South Carolina, Oklahoma State, Eastern Washington, Kentucky, Florida A&M, Washington, Alabama-Birmingham, Providence, Pacific, Kansas, UIC, Boston College, Utah, Georgia Tech, Northern Iowa, Michigan State, Nevada, Gonzaga, Valparaiso
+Stanford, Alabama, Syracuse, Maryland, Vanderbilt, North Carolina State, DePaul, UConn, Duke, Seton Hall, Illinois, Cincinnati, UNC, Texas, Xavier, Mississippi State, St. Joseph's, Texas Tech, Manhattan, Wake Forest, Wisconsin, Pitt, Memphis, Oklahoma State, Kentucky, Alabama-Birmingham, Pacific, Kansas, Boston College, Georgia Tech, Nevada, Gonzaga
+Alabama, Syracuse, Vanderbilt, UConn, Duke, Illinois, Texas, Xavier, St. Joseph's, Wake Forest, Pitt, Oklahoma State, Alabama-Birmingham, Kansas, Georgia Tech, Nevada
+Alabama, UConn, Duke, Xavier, St. Joseph's, Oklahoma State, Kansas, Georgia Tech
+UConn, Duke, Oklahoma State, Georgia Tech
+UConn, Georgia Tech
+UConn

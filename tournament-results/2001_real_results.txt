@@ -1,0 +1,7 @@
+Duke, Monmouth, Georgia, Missouri, Ohio State, Utah State, UCLA, Hofstra, USC, Oklahoma State, Boston College, Southern Utah, Iowa, Creighton, Kentucky, Holy Cross, Stanford, North Carolina-Greensboro, Georgia Tech, St. Joseph's, Cincinnati, BYU, Indiana, Kent State, Wisconsin, Georgia State, Maryland, George Mason, Arkansas, Georgetown, Iowa State, Hampton, Michigan State, Alabama State, University of California, Fresno State, Virginia, Gonzaga, Oklahoma, Indiana State, Texas, Temple, Florida, Western Kentucky, Penn State, Providence, UNC, Princeton, Illinois, Northwestern State, Tennessee, Charlotte, Syracuse, Hawaii, Kansas, Cal State Northridge, Notre Dame, Xavier, Ole Miss, Iona, Wake Forest, Butler, Arizona, Eastern Illinois
+Duke, Missouri, Utah State, UCLA, USC, Boston College, Iowa, Kentucky, Stanford, St. Joseph's, Cincinnati, Kent State, Georgia State, Maryland, Georgetown, Hampton, Michigan State, Fresno State, Gonzaga, Indiana State, Temple, Florida, Penn State, UNC, Illinois, Charlotte, Syracuse, Kansas, Notre Dame, Ole Miss, Butler, Arizona
+Duke, UCLA, USC, Kentucky, Stanford, Cincinnati, Maryland, Georgetown, Michigan State, Gonzaga, Temple, Penn State, Illinois, Kansas, Ole Miss, Arizona
+Duke, USC, Stanford, Maryland, Michigan State, Temple, Illinois, Arizona
+Duke, Maryland, Michigan State, Arizona
+Duke, Arizona
+Duke

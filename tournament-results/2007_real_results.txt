@@ -1,0 +1,7 @@
+Florida, Jackson State, Arizona, Purdue, Butler, Old Dominion, Maryland, Davidson, Notre Dame, Winthrop, Oregon, Miami (OH), UNLV, Georgia Tech, Wisconsin, Texas A&M-Corpus Christi, Kansas, Niagara, Kentucky, Villanova, Virginia Tech, Illinois, Southern Illinois, Holy Cross, Duke, VCU, Pitt, Wright State, Indiana, Gonzaga, UCLA, Weber State, UNC, Eastern Kentucky, Marquette, Michigan State, USC, Arkansas, Texas, New Mexico State, Vanderbilt, George Washington, Washington State, Oral Roberts, Boston College, Texas Tech, Georgetown, Belmont, Ohio State, Central Connecticut, BYU, Xavier, Tennessee, Long Beach State, Virginia, Albany (NY), Louisville, Stanford, Texas A&M, Penn, Nevada, Creighton, Memphis, North Texas
+Florida, Purdue, Butler, Maryland, Winthrop, Oregon, UNLV, Wisconsin, Kansas, Kentucky, Virginia Tech, Southern Illinois, VCU, Pitt, Indiana, UCLA, UNC, Michigan State, USC, Texas, Vanderbilt, Washington State, Boston College, Georgetown, Ohio State, Xavier, Tennessee, Virginia, Louisville, Texas A&M, Nevada, Memphis
+Florida, Butler, Oregon, UNLV, Kansas, Southern Illinois, Pitt, UCLA, UNC, USC, Vanderbilt, Georgetown, Ohio State, Tennessee, Texas A&M, Memphis
+Florida, Oregon, Kansas, UCLA, UNC, Georgetown, Ohio State, Memphis
+Florida, UCLA, Georgetown, Ohio State
+Florida, Ohio State
+Florida

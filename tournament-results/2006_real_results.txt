@@ -1,0 +1,7 @@
+Villanova, Monmouth, Arizona, Wisconsin, Nevada, Montana, Boston College, Pacific, Oklahoma, Milwaukee, Florida, South Alabama, Georgetown, Northern Iowa, Ohio State, Davidson, UConn, Albany (NY), Kentucky, Alabama-Birmingham, Washington, Utah State, Illinois, Air Force, Michigan State, George Mason, UNC, Murray State, Wichita State, Seton Hall, Tennessee, Winthrop, Duke, Southern, George Washington, North Carolina-Wilmington, Syracuse, Texas A&M, LSU, Iona, West Virginia, Southern Illinois, Iowa, Northwestern State, University of California, North Carolina State, Texas, Penn, Memphis, Oral Roberts, Arkansas, Bucknell, Pitt, Kent State, Kansas, Bradley, Indiana, San Diego State, Gonzaga, Xavier, Marquette, Alabama, UCLA, Belmont
+Villanova, Arizona, Montana, Boston College, Milwaukee, Florida, Georgetown, Ohio State, UConn, Kentucky, Washington, Illinois, George Mason, UNC, Wichita State, Tennessee, Duke, George Washington, Texas A&M, LSU, West Virginia, Northwestern State, North Carolina State, Texas, Memphis, Bucknell, Pitt, Bradley, Indiana, Gonzaga, Alabama, UCLA
+Villanova, Boston College, Florida, Georgetown, UConn, Washington, George Mason, Wichita State, Duke, LSU, West Virginia, Texas, Memphis, Bradley, Gonzaga, UCLA
+Villanova, Florida, UConn, George Mason, LSU, Texas, Memphis, UCLA
+Florida, George Mason, LSU, UCLA
+Florida, UCLA
+Florida

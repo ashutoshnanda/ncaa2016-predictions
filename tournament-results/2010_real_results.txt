@@ -1,0 +1,7 @@
+Duke, Arkansas-Pine Bluff, University of California, Louisville, Texas A&M, Utah State, Purdue, Siena, Notre Dame, Old Dominion, Baylor, Sam Houston State, Richmond, Saint Mary's (CA), Villanova, Robert Morris, Kentucky, ETSU, Texas, Wake Forest, Temple, Cornell, Wisconsin, Wofford, Marquette, Washington, New Mexico, Montana, Clemson, Missouri, West Virginia, Morgan State, Kansas, Lehigh, UNLV, Northern Iowa, Michigan State, New Mexico State, Maryland, Houston, Tennessee, San Diego State, Georgetown, Ohio, Oklahoma State, Georgia Tech, Ohio State, UCSB, Syracuse, Vermont, Gonzaga, Florida State, Butler, UTEP, Vanderbilt, Murray State, Xavier, Minnesota, Pitt, Oakland, BYU, Florida, Kansas State, North Texas
+Duke, University of California, Texas A&M, Purdue, Old Dominion, Baylor, Saint Mary's (CA), Villanova, Kentucky, Wake Forest, Cornell, Wisconsin, Washington, New Mexico, Missouri, West Virginia, Kansas, Northern Iowa, Michigan State, Maryland, Tennessee, Ohio, Georgia Tech, Ohio State, Syracuse, Gonzaga, Butler, Murray State, Xavier, Pitt, BYU, Kansas State
+Duke, Purdue, Baylor, Saint Mary's (CA), Kentucky, Cornell, Washington, West Virginia, Northern Iowa, Michigan State, Tennessee, Ohio State, Syracuse, Butler, Xavier, Kansas State
+Duke, Baylor, Kentucky, West Virginia, Michigan State, Tennessee, Butler, Kansas State
+Duke, West Virginia, Michigan State, Butler
+Duke, Butler
+Duke

@@ -1,0 +1,7 @@
+Kentucky, Western Kentucky, Iowa State, UConn, Wichita State, VCU, Indiana, New Mexico State, UNLV, Colorado, Baylor, South Dakota State, Notre Dame, Xavier, Duke, Lehigh, Michigan State, LIU-Brooklyn, Memphis, Saint Louis, New Mexico, Long Beach State, Louisville, Davidson, Murray State, Colorado State, Marquette, BYU, Florida, Virginia, Missouri, Norfolk State, Syracuse, North Carolina-Asheville, Kansas State, Southern Miss, Vanderbilt, Harvard, Wisconsin, Montana, Cincinnati, Texas, Florida State, St. Bonaventure, Gonzaga, West Virginia, Ohio State, Loyola (MD), UNC, Vermont, Creighton, Alabama, Temple, South Florida, Michigan, Ohio, San Diego State, North Carolina State, Georgetown, Belmont, Saint Mary's (CA), Purdue, Kansas, Detroit
+Kentucky, Iowa State, VCU, Indiana, Colorado, Baylor, Xavier, Lehigh, Michigan State, Saint Louis, New Mexico, Louisville, Murray State, Marquette, Florida, Norfolk State, Syracuse, Kansas State, Vanderbilt, Wisconsin, Cincinnati, Florida State, Gonzaga, Ohio State, UNC, Creighton, South Florida, Ohio, North Carolina State, Georgetown, Purdue, Kansas
+Kentucky, Indiana, Baylor, Xavier, Michigan State, Louisville, Marquette, Florida, Syracuse, Wisconsin, Cincinnati, Ohio State, UNC, Ohio, North Carolina State, Kansas
+Kentucky, Baylor, Louisville, Florida, Syracuse, Ohio State, UNC, Kansas
+Kentucky, Louisville, Ohio State, Kansas
+Kentucky, Kansas
+Kentucky

@@ -1,0 +1,7 @@
+Duke, Hampton, Michigan, Tennessee, Arizona, Memphis, Texas, Oakland, Cincinnati, Missouri, UConn, Bucknell, Temple, Penn State, San Diego State, Northern Colorado, Ohio State, UTSA, George Mason, Villanova, West Virginia, Clemson, Kentucky, Princeton, Xavier, Marquette, Syracuse, Indiana State, Washington, Georgia, UNC, LIU-Brooklyn, Kansas, Boston University, UNLV, Illinois, Vanderbilt, Richmond, Louisville, Morehead State, Georgetown, VCU, Purdue, St. Peter's, Texas A&M, Florida State, Notre Dame, Akron, Pitt, North Carolina-Asheville, Butler, Old Dominion, Kansas State, Utah State, Wisconsin, Belmont, St. John's (NY), Gonzaga, BYU, Wofford, UCLA, Michigan State, Florida, UCSB
+Duke, Michigan, Arizona, Texas, Cincinnati, UConn, Temple, San Diego State, Ohio State, George Mason, West Virginia, Kentucky, Marquette, Syracuse, Washington, UNC, Kansas, Illinois, Richmond, Morehead State, VCU, Purdue, Florida State, Notre Dame, Pitt, Butler, Kansas State, Wisconsin, Gonzaga, BYU, UCLA, Florida
+Duke, Arizona, UConn, San Diego State, Ohio State, Kentucky, Marquette, UNC, Kansas, Richmond, VCU, Florida State, Butler, Wisconsin, BYU, Florida
+Arizona, UConn, Kentucky, UNC, Kansas, VCU, Butler, Florida
+UConn, Kentucky, VCU, Butler
+UConn, Butler
+UConn

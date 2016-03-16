@@ -1,0 +1,7 @@
+Kansas, Portland State, UNLV, Kent State, Clemson, Villanova, Vanderbilt, Siena, USC, Kansas State, Wisconsin, Cal State Fullerton, Gonzaga, Davidson, Georgetown, UMBC, UNC, Mount St. Mary's, Indiana, Arkansas, Notre Dame, George Mason, Washington State, Winthrop, Oklahoma, St. Joseph's, Louisville, Boise State, Butler, South Alabama, Tennessee, American, UCLA, Mississippi Valley State, BYU, Texas A&M, Drake, Western Kentucky, UConn, San Diego, Purdue, Baylor, Xavier, Georgia, West Virginia, Arizona, Duke, Belmont, Memphis, Texas-Arlington, Mississippi State, Oregon, Michigan State, Temple, Pitt, Oral Roberts, Marquette, Kentucky, Stanford, Cornell, Miami (FL), Saint Mary's (CA), Texas, Austin Peay
+Kansas, UNLV, Villanova, Siena, Kansas State, Wisconsin, Davidson, Georgetown, UNC, Arkansas, Notre Dame, Washington State, Oklahoma, Louisville, Butler, Tennessee, UCLA, Texas A&M, Western Kentucky, San Diego, Purdue, Xavier, West Virginia, Duke, Memphis, Mississippi State, Michigan State, Pitt, Marquette, Stanford, Miami (FL), Texas
+Kansas, Villanova, Wisconsin, Davidson, UNC, Washington State, Louisville, Tennessee, UCLA, Western Kentucky, Xavier, West Virginia, Memphis, Michigan State, Stanford, Texas
+Kansas, Davidson, UNC, Louisville, UCLA, Xavier, Memphis, Texas
+Kansas, UNC, UCLA, Memphis
+Kansas, Memphis
+Kansas

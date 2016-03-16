@@ -1,0 +1,7 @@
+Duke, Robert Morris, San Diego State, St. John's (NY), Utah, Stephen F. Austin, Georgetown, Eastern Washington, SMU, UCLA, Iowa State, Alabama-Birmingham, Iowa, Davidson, Gonzaga, North Dakota State, Villanova, Lafayette, North Carolina State, LSU, Northern Iowa, Wyoming, Louisville, UC-Irvine, Providence, Dayton, Oklahoma, Albany (NY), Michigan State, Georgia, Virginia, Belmont, Kentucky, Hampton, Cincinnati, Purdue, West Virginia, Buffalo, Maryland, Valparaiso, Butler, Texas, Notre Dame, Northeastern, Wichita State, Indiana, Kansas, New Mexico State, Wisconsin, Coastal Carolina, Oregon, Oklahoma State, Arkansas, Wofford, UNC, Harvard, Xavier, Ole Miss, Baylor, Georgia State, VCU, Ohio State, Arizona, Texas Southern
+Duke, San Diego State, Utah, Georgetown, UCLA, Alabama-Birmingham, Iowa, Gonzaga, Villanova, North Carolina State, Northern Iowa, Louisville, Dayton, Oklahoma, Michigan State, Virginia, Kentucky, Cincinnati, West Virginia, Maryland, Butler, Notre Dame, Wichita State, Kansas, Wisconsin, Oregon, Arkansas, UNC, Xavier, Georgia State, Ohio State, Arizona
+Duke, Utah, UCLA, Gonzaga, North Carolina State, Louisville, Oklahoma, Michigan State, Kentucky, West Virginia, Notre Dame, Wichita State, Wisconsin, UNC, Xavier, Arizona
+Duke, Gonzaga, Louisville, Michigan State, Kentucky, Notre Dame, Wisconsin, Arizona
+Duke, Michigan State, Kentucky, Wisconsin
+Duke, Wisconsin
+Duke

@@ -1,0 +1,7 @@
+Maryland, Siena, Wisconsin, St. John's (NY), Marquette, Tulsa, Kentucky, Valparaiso, Texas Tech, Southern Illinois, Georgia, Murray State, North Carolina State, Michigan State, UConn, Hampton, Kansas, Holy Cross, Stanford, Western Kentucky, Florida, Creighton, Illinois, San Diego State, Texas, Boston College, Mississippi State, McNeese State, Wake Forest, Pepperdine, Oregon, Montana, Cincinnati, Boston University, UCLA, Ole Miss, Miami (FL), Missouri, Ohio State, Davidson, Gonzaga, Wyoming, Arizona, UCSB, Xavier, Hawaii, Oklahoma, UIC, Duke, Winthrop, Notre Dame, Charlotte, Indiana, Utah, USC, North Carolina-Wilmington, University of California, Penn, Pitt, Central Connecticut, Oklahoma State, Kent State, Alabama, Florida Atlantic
+Maryland, Wisconsin, Tulsa, Kentucky, Southern Illinois, Georgia, North Carolina State, UConn, Kansas, Stanford, Creighton, Illinois, Texas, Mississippi State, Wake Forest, Oregon, Cincinnati, UCLA, Missouri, Ohio State, Wyoming, Arizona, Xavier, Oklahoma, Duke, Notre Dame, Indiana, North Carolina-Wilmington, University of California, Pitt, Kent State, Alabama
+Maryland, Kentucky, Southern Illinois, UConn, Kansas, Illinois, Texas, Oregon, UCLA, Missouri, Arizona, Oklahoma, Duke, Indiana, Pitt, Kent State
+Maryland, UConn, Kansas, Oregon, Missouri, Oklahoma, Indiana, Kent State
+Maryland, Kansas, Oklahoma, Indiana
+Maryland, Indiana
+Maryland
