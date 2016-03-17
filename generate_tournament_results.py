@@ -9,6 +9,7 @@ tournament_results_format = "%s_real_results.txt"
 
 
 def generate_results_for_one_tournament(tournament_listing_file):
+	print('Generating results for %s' % tournament_listing_file)
 	f = open(tournament_listing_file, 'r')
 	teams = [[line.split(';')[0], line.strip().split(';')[2]] for line in f.readlines()]
 	f.close()
@@ -40,8 +41,11 @@ def generate_results_for_all_tournaments():
 	files_to_analyze = filter(lambda x: x.endswith('_listing.txt'),
 					          os.listdir(tournament_structure_folder))
 	for tournament in files_to_analyze:
-		print('Generating results for %s' % tournament)
-		generate_results_for_one_tournament(os.path.join(tournament_structure_folder, tournament))
+		generate_results_for_one_tournament(os.path.
+
+def generate_results_for_current_tournament():
+	os.system("touch tournament-results/2016_real_results.txt")
 
 if __name__ == '__main__':
 	generate_results_for_all_tournaments()
+	generate_results_for_current_tournament()

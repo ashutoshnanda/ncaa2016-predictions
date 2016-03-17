@@ -3,3 +3,4 @@
 ./analyze_tournament_structure.py
 ./generate_tournament_results.py
 ./scrape_team_data.py delete-cache
+./extract_team_data.py

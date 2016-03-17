@@ -62,6 +62,7 @@ def find_regions(soup):
 	return regions[2:-1]
 
 def analyze_one_tournament(tournament_structure_file):
+	print('Analyzing %s' % tournament_structure_file)
 	year = tournament_structure_file.split("_")[0]
 	f = open(tournament_structure_file)
 	soup = BeautifulSoup(f.read(), "html.parser")
@@ -121,7 +122,6 @@ def analyze_all_tournaments():
 	files_to_analyze = filter(lambda x: x.endswith('.html') and '2016' not in x,
 					          os.listdir(tournament_structure_folder))
 	for tournament in files_to_analyze:
-		print('Analyzing %s' % tournament)
 		analyze_one_tournament(os.path.join(tournament_structure_folder, tournament))
 
 if __name__ == '__main__':
